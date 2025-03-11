@@ -1,12 +1,27 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M32.0845 7.94025V4H24.0203V7.9896H16.029V4H7.91553V7.94025H4V36H16.0044V32.0045C16.0058 30.9457 16.4274 29.9308 17.1766 29.1826C17.9258 28.4345 18.9412 28.0143 20 28.0143C21.0588 28.0143 22.0743 28.4345 22.8234 29.1826C23.5726 29.9308 23.9942 30.9457 23.9956 32.0045V36H36V7.94025H32.0845Z"
-          fill="url(#paint0_linear)"/>
+<svg width="40" height="40" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
-        <linearGradient id="paint0_linear" x1="2.94192" y1="4.89955" x2="37.7772" y2="39.7345"
-                        gradientUnits="userSpaceOnUse">
-            <stop offset="0.15937" stop-color="#3BEA62"/>
-            <stop offset="0.5404" stop-color="#3C99CC"/>
-            <stop offset="0.93739" stop-color="#6B57FF"/>
+        <linearGradient id="liquidGrad" gradientTransform="rotate(45)">
+            <stop offset="0%" stop-color="#1E1F22"/>
+            <stop offset="33%" stop-color="#56A8F5"/>
+            <stop offset="66%" stop-color="#EBCB8B"/>
+            <stop offset="100%" stop-color="#D0876E"/>
         </linearGradient>
+
+        <!-- 树叶符号定义 -->
+        <symbol id="leaf" viewBox="0 0 24 24">
+            <path d="M12 2C8 7 4 12 4 17c0 5 4 5 8 5s8 0 8-5c0-5-4-10-8-15z"
+                  fill="#A3BE8C"
+                  stroke="#393D45"
+                  stroke-width="0.5"/>
+            <path d="M12 17l-3-3m6 0l-3 3"
+                  stroke="#EBCB8B"
+                  stroke-width="1"
+                  stroke-linecap="round"/>
+        </symbol>
     </defs>
+
+    <!-- 背景渐变 -->
+    <path d="M20,20 Q60-10,100,20 T180,100 Q120,130,20,100 T20,20"
+          fill="url(#liquidGrad)"
+          transform="translate(-20 -20)"/>
 </svg>
