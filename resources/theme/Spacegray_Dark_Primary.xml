@@ -1,9 +1,9 @@
-<scheme name="Spacegray Dark SE" version="142" parent_scheme="Darcula">
+<scheme name="Spacegray Dark Primary" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2024.3.3.0.0</property>
-    <property name="originalScheme">Spacegray Dark SE</property>
+    <property name="originalScheme">Spacegray Dark Primary</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -285,7 +285,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="c0c5ce" />
-        <option name="BACKGROUND" value="1f2022" />
+        <option name="BACKGROUND" value="2B2D30" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

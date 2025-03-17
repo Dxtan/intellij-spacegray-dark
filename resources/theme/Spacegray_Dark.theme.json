@@ -1,5 +1,5 @@
 {
-  "name": "Spacegray_Dark",
+  "name": "Spacegray Dark SE",
   "dark": true,
   "author": "Jamie Tan",
   "editorScheme": "/theme/Spacegray_Dark.xml",
@@ -38,7 +38,7 @@
       "pressedBorderColor": "#383C4A"
     },
     "Button": {
-      "arc": 10,
+      "arc": 8,
       "startBackground": "#383C4A",
       "endBackground": "#383C4A",
       "startBorderColor": "#5a6173",
@@ -96,16 +96,33 @@
     },
     "EditorPane.inactiveBackground": "#2b303b",
     "EditorTabs": {
+      "underlineArc": 4,
+      "underlineHeight": 4,
+      "unselectedAlpha": 0.75,
+      "unselectedBlend": 0.7,
       "borderColor": "#2b303b",
       "underlinedTabBackground": "2b303b",
-      "background": "#1c1f26",
-      "underlineHeight": "2"
+      "background": "#1c1f26"
     },
     "Link": {
       "activeForeground": "#7FA1B3",
       "hoverForeground": "#7FA1B3",
       "pressedForeground": "#7FA1B3",
       "visitedForeground": "#7FA1B3"
+    },
+    "List": {
+      "rowHeight": 24,
+      "border": "4,0,4,0",
+      "Button": {
+        "separatorColor": "#FFFFFF33",
+        "separatorInset": 4,
+        "hoverBackground": "Blue3",
+        "leftRightInset": 8
+      },
+      "Tag": {
+        "background": "Gray3",
+        "foreground": "Gray8"
+      }
     },
     "NavBar.borderColor": "#1C1F26",
     "Notification": {
@@ -222,7 +239,11 @@
         "selectedForeground": "#C0C5CE"
       }
     },
-    "Tree.rowHeight": 20,
+    "Tree": {
+      "rowHeight": 24,
+      "hash": "#4E5157",
+      "border": "4,12,4,12"
+    },
     "ValidationTooltip": {
       "errorBackground": "#bf4c53",
       "errorBorderColor": "#5a2d2d",

@@ -1,9 +1,9 @@
-<scheme name="Spacegray Dark SE" version="142" parent_scheme="Darcula">
+<scheme name="Spacegray Dark Pro" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">idea</property>
     <property name="ideVersion">2024.3.3.0.0</property>
-    <property name="originalScheme">Spacegray Dark SE</property>
+    <property name="originalScheme">Dark Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="15" />
