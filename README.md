@@ -5,4 +5,12 @@ and it's based on the [Intellij-Spacegray](https://github.com/mturlo/intellij-sp
 
 Check out the [official plugin page](https://plugins.jetbrains.com/plugin/26747-spacegray-dark-theme) in Jetbrains plugin repository.
 
-![image](./screenshots/image1.png)
+
+## Primary
+![image](./screenshots/primary.png)
+
+## Pro
+![image](./screenshots/pro.png)
+
+## SE
+![image](./screenshots/se.png)

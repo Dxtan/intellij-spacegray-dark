@@ -17,7 +17,7 @@
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="CARET_COLOR" value="c0c5ce" />
     <option name="CARET_ROW_COLOR" value="353c47" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b303b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1E1F22" />
     <option name="DELETED_LINES_COLOR" value="bf616a" />
     <option name="DOCUMENTATION2_COLOR" value="232830" />
     <option name="DOCUMENTATION_COLOR" value="232830" />
@@ -25,7 +25,7 @@
     <option name="FILESTATUS_DELETED" value="bf616a" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="656a75" />
     <option name="FILESTATUS_MODIFIED" value="7fa1b3" />
-    <option name="GUTTER_BACKGROUND" value="2b303b" />
+    <option name="GUTTER_BACKGROUND" value="1E1F22" />
     <option name="INDENT_GUIDE" value="3b464d" />
     <option name="INFORMATION_HINT" value="232830" />
     <option name="LINE_NUMBERS_COLOR" value="393d45" />
@@ -35,19 +35,19 @@
     <option name="SELECTED_INDENT_GUIDE" value="65737e" />
     <option name="SELECTION_BACKGROUND" value="4f5b66" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="5a6173" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="2b303b" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="1E1F22" />
     <option name="ScrollBar.Mac.thumbColor" value="383c4a" />
-    <option name="ScrollBar.Mac.trackColor" value="2b303b" />
+    <option name="ScrollBar.Mac.trackColor" value="1E1F22" />
     <option name="ScrollBar.hoverThumbColor" value="5a6173" />
-    <option name="ScrollBar.hoverTrackColor" value="2b303b" />
+    <option name="ScrollBar.hoverTrackColor" value="1E1F22" />
     <option name="ScrollBar.thumbColor" value="383c4a" />
-    <option name="ScrollBar.trackColor" value="2b303b" />
+    <option name="ScrollBar.trackColor" value="1E1F22" />
     <option name="TEARLINE_COLOR" value="868686" />
     <option name="TOOLTIP" value="4f5b66" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="4f5b66" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="343d46" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="343d46" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="2b303b" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="1E1F22" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="232830" />
     <option name="WHITESPACES" value="65737e" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="343d46" />
