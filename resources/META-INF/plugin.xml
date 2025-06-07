@@ -18,14 +18,37 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Spacegray theme for IntelliJ, inspired by one made by <a href="https://twitter.com/kkga_">Gadzhi Kharkharov</a> for <a href="https://kkga.github.io/spacegray/">SublimeText</a>.<br>
+    <h1>Space Dark Theme</h1>
 
+    Themes provide three styles.
+
+    - Primary is the basic style of Dark theme based on JetBrains, and the UI area and editor are the same color.
+    - Pro is the basic style of Dark theme based on JetBrains, and the UI area and editor are different colors.
+    - Se is based on the basic dark blue of the original spaceGray, and the UI area and the editor are different colors.
+
+    主题提供了3种样式:
+
+    - Primary样式是基于Jetbrains Dark Theme基础UI样式，UI区和编辑器是相同的颜色。
+    - Pro样式是基于Jetbrains Dark Theme基础UI样式， UI区和编辑器是不相同的颜色。
+    - SE样式是基于原SpaceGray主题暗蓝色UI样式，UI区和编辑器是不相同的颜色.
+
+    <br/>
+    <p>Spacegray theme for IntelliJ, inspired by one made by <a href="https://twitter.com/kkga_">Gadzhi Kharkharov</a>
+    for <a href="https://kkga.github.io/spacegray/">SublimeText</a>.<br>
+    </p>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
     <h1>Change Notes</h1>
+    <b>1.0.5</b><br/>
+        - 更新主题的说明<br/>
+    <br/>
+
+    <b>1.0.4</b><br/>
+        - 修复低版本commit and push窗口按钮不展示问题<br/>
+    <br/>
 
     <b>1.0.3</b><br/>
         - 修复低版本commit and push窗口按钮不展示问题<br/>
