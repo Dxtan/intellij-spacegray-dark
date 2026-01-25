@@ -1,2 +1,27 @@
-out
+# Compiled output
+out/
 *.jar
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ IDEA
+.idea/
+
+
+# Build tools
+build/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+*~
