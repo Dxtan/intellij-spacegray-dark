@@ -89,13 +89,13 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="intellij-spacegray-dark-se" path="/theme/Spacegray_Dark.theme.json"/>
-        <themeProvider id="intellij-spacegray-dark" path="/theme/Spacegray_Dark_Primary.theme.json"/>
-        <themeProvider id="intellij-spacegray-dark-pro" path="/theme/Spacegray_Dark_Pro.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark-se" path="/theme/se/Spacegray_Dark.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark" path="/theme/primary/Spacegray_Dark_Primary.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark-pro" path="/theme/pro/Spacegray_Dark_Pro.theme.json"/>
 
         <!-- Islands Variants -->
-        <themeProvider id="intellij-spacegray-dark-se-islands" path="/theme/Spacegray_Dark_SE_Islands.theme.json"/>
-        <themeProvider id="intellij-spacegray-dark-islands" path="/theme/Spacegray_Dark_Primary_Islands.theme.json"/>
-        <themeProvider id="intellij-spacegray-dark-pro-islands" path="/theme/Spacegray_Dark_Pro_Islands.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark-se-islands" path="/theme/island_se/Spacegray_Dark_SE_Islands.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark-islands" path="/theme/island_primary/Spacegray_Dark_Primary_Islands.theme.json"/>
+        <themeProvider id="intellij-spacegray-dark-pro-islands" path="/theme/island_pro/Spacegray_Dark_Pro_Islands.theme.json"/>
     </extensions>
 </idea-plugin>
