@@ -2,7 +2,7 @@
   "name": "Spacegray Dark SE",
   "dark": true,
   "author": "Jamie Tan",
-  "editorScheme": "/theme/Spacegray_Dark.xml",
+  "editorScheme": "/theme/se/Spacegray_Dark.xml",
   "ui": {
     "*": {
       "background": "#232830",

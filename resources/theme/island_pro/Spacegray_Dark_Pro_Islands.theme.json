@@ -2,7 +2,7 @@
   "name": "Spacegray Dark Pro Islands",
   "dark": true,
   "author": "Jamie Tan",
-  "editorScheme": "/theme/Spacegray_Dark_Pro.xml",
+  "editorScheme": "/theme/pro/Spacegray_Dark_Pro.xml",
   "parentTheme": "Islands Dark",
   "colors": {
     "Gray1": "#1E1F22",

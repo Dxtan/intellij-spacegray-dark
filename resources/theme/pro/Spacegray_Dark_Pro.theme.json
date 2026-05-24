@@ -2,7 +2,7 @@
   "name": "Spacegray Dark Pro",
   "dark": true,
   "author": "Jamie Tan",
-  "editorScheme": "/theme/Spacegray_Dark_Pro.xml",
+  "editorScheme": "/theme/pro/Spacegray_Dark_Pro.xml",
   "colors": {
     "Gray1": "#1E1F22",
     "Gray2": "#2B2D30",
